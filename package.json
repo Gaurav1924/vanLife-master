@@ -20,7 +20,6 @@
     "miragejs": "^0.1.47",
     "react-scripts": "5.0.1"
   },
-  "homepage": "https://Gaurav1924.github.io/vanLife-master",
   "browserslist": {
     "production": [
       ">0.2%",
