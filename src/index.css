@@ -170,10 +170,16 @@ header a.active {
 
 .van-list {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr;
   justify-items: center;
   gap: 34px;
   margin-top: 57px;
+}
+
+@media (min-width: 640px) {
+  .van-list {
+    grid-template-columns: 1fr 1fr;
+  }
 }
 
 .van-tile a {
