@@ -5,7 +5,7 @@ import About from "./pages/About";
 import Home from "./pages/Home";
 import Vans from "./pages/Vans";
 // Import fake API server
-import "../server.js";
+import "./server.js";
 import VanDetail from "./pages/VanDetail";
 
 function App() {
